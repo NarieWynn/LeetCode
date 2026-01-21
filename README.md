@@ -20,7 +20,7 @@
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Java](./src/Leetcode_217.java) | $O(n)$ | 18/01 |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | Easy | [Java](./src/Leetcode_367.java) | $O(\log n)$ | 19/01 |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [Java](./src/Leetcode_704.java) | $O(\log n)$ | 16/01 |
-| 14 | [Longest Common Prefix] (https://leetcode.com/problems/longest-common-prefix/description/) | Easy | [Java](./src/Leetcode_14.java) | $O(n^2)$ | 21/01 |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | Easy | [Java](./src/Leetcode_14.java) | $O(n^2)$ | 21/01 |
 
 -------------------------------------------------------------
 ## 🟡 Medium (Core Engineering Skills)
