@@ -21,7 +21,7 @@
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | Easy | [Java](./src/Leetcode_367.java) | $O(\log n)$ | 19/01 |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [Java](./src/Leetcode_704.java) | $O(\log n)$ | 16/01 |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | Easy | [Java](./src/Leetcode_14.java) | $O(n^2)$ | 21/01 |
-
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Java](./src/Leetcode_9.java) | $O(n)$ | 22/01 |
 -------------------------------------------------------------
 ## 🟡 Medium 
 | # | Problem | Difficulty | Solution | Complexity | Date |
