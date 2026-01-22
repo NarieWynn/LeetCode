@@ -9,7 +9,7 @@
 
 ## 📊 Progress Tracking
 
-## 🟢 Easy (Building Foundations)
+## 🟢 Easy 
 | # | Problem | Difficulty | Solution | Complexity | Date |
 |---|---------|------------|----------|------------|------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Java](./src/Two_Sum.java) | $O(n)$ | 15/01 |
@@ -23,13 +23,13 @@
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | Easy | [Java](./src/Leetcode_14.java) | $O(n^2)$ | 21/01 |
 
 -------------------------------------------------------------
-## 🟡 Medium (Core Engineering Skills)
+## 🟡 Medium 
 | # | Problem | Difficulty | Solution | Complexity | Date |
 |---|---------|------------|----------|------------|------|
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [Java](./src/Leetcode_15.java) | $O(n^2)$ | 19/01 |
 | 34 | [First/Last Position in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [Java](./src/Leetcode_34.java) | $O(\log n)$ | 16/01 |
 -------------------------------------------------------------
-## 🔴 Hard (Research & PhD Level)
+## 🔴 Hard 
 | # | Problem | Difficulty | Solution | Complexity | Date |
 |---|---------|------------|----------|------------|------|
 
