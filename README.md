@@ -2,7 +2,7 @@
 
 ## 💻 Tech Stack & Environment
 
-* **Operating System:** Arch Linux (Nobara KDE Plasma)
+* **Operating System:** Arch
 * **Language:** Java
 * **Editor:** VS Code
 * **Version Control:** Git
