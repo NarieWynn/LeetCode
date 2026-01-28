@@ -20,7 +20,7 @@
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Java](./java/Leetcode_217.java) | $O(n)$ | 18/01 |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | Easy | [Java](./java/Leetcode_367.java) | $O(\log n)$ | 19/01 |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [Java](./java/Leetcode_704.java) | $O(\log n)$ | 16/01 |
-| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | Easy | [Java](./java/Leetcode_14.java) | $O(n^2)$ | 21/01 |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | Easy | [Java](./java/Leetcode_14.java)/ (Python)(./python/Leetcode_14.py) | $O(n^2)$ | 21/01 |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Java](./java/Leetcode_9.java) / [Python](./python/Leetcode_9.py) | $O(n)$ | 22/01 |
 -------------------------------------------------------------
 ## 🟡 Medium 
