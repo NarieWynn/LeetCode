@@ -28,7 +28,7 @@
 |---|---------|------------|----------|------------|------|
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [Java](./java/Leetcode_15.java) | $O(n^2)$ | 19/01 |
 | 34 | [First/Last Position in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [Java](./java/Leetcode_34.java) | $O(\log n)$ | 16/01 |
-| 3 | [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | Medium | [Java](./java/Letcode_3.java) | $O(n)$ | 25/01 |
+| 3 | [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | Medium | [Java](./java/Leetcode_3.java) | $O(n)$ | 25/01 |
 | 2 | [Add two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | Medium | [Java](./java/Leetcode_2.java) | $O(n)$ | 25/01 |
 | 5 | [Longest Palindromic SubString](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [Java](./java/Leetcode_5.java) | $O(n^2)$ | 27/01 |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | Medium | [Java](./java/Leetcode_33.java) | $O(n)$ | 29/01 |
