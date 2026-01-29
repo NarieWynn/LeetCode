@@ -36,5 +36,8 @@
 ## 🔴 Hard 
 | # | Problem | Difficulty | Solution | Complexity | Date |
 |---|---------|------------|----------|------------|------|
-|  |  | ![Hard](https://img.shields.io/badge/-HARD-red) |  |  |  |
+|  |  | ![][H] |  |  |  |
 --------------------------------------------------------------
+[E]: https://img.shields.io/badge/-EASY-brightgreen
+[M]: https://img.shields.io/badge/-MEDIUM-yellow
+[H]: https://img.shields.io/badge/-HARD-red
