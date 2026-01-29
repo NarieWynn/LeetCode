@@ -12,7 +12,7 @@
 ## 🟢 Easy 
 | # | Problem | Difficulty | Solution | Complexity | Date |
 |---|---------|------------|----------|------------|------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Java](./java/Two_Sum.java) | $O(n)$ | 15/01 |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | ![Easy](https://img.shields.io/badge/-EASY-brightgreen) | [Java](./java/Two_Sum.java) | $O(n)$ | 15/01 |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Java](./java/Leetcode_13.java) | $O(n)$ | 16/01 |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Java](./java/Search_Insert_Position.java) | $O(\log n)$ | 16/01 |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | [Java](./java/Sqrt.java) | $O(\log n)$ | 19/01 |
