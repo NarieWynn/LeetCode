@@ -23,6 +23,7 @@
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | ![Easy](https://img.shields.io/badge/-EASY-brightgreen) | [Java](./java/Leetcode_14.java) / [Python](./python/Leetcode_14.py) | $O(n^2)$ | 21/01 |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | ![Easy](https://img.shields.io/badge/-EASY-brightgreen) | [Java](./java/Leetcode_9.java) / [Python](./python/Leetcode_9.py) | $O(n)$ | 22/01 |
 | 20 | [Valid Parenthese](https://leetcode.com/problems/valid-parentheses/) | ![][E] | [Java](./src/Leetcode_20.java) | $O(n)$ | 31/01 |
+| 3010 | [Divide an Array into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/?envType=daily-question&envId=2026-02-01) | ![][E] | [Java](./java/Leetcode_3010.java) | $O(n)$ | 01/02 |
 -------------------------------------------------------------
 ## 🟡 Medium 
 | # | Problem | Difficulty | Solution | Complexity | Date |
