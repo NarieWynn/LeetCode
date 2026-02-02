@@ -19,7 +19,7 @@
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ![Easy](https://img.shields.io/badge/-EASY-brightgreen) | [Java](./java/Leetcode_206.java) | $O(n)$ | 20/01 |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | ![Easy](https://img.shields.io/badge/-EASY-brightgreen) | [Java](./java/Leetcode_217.java) | $O(n)$ | 18/01 |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | ![Easy](https://img.shields.io/badge/-EASY-brightgreen) | [Java](./java/Valid_Perfect_Square.java) | $O(\log n)$ | 19/01 |
-| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | ![Easy](https://img.shields.io/badge/-EASY-brightgreen) | [Java](./java/BinarySearch.java) | $O(\log n)$ | 16/01 |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | ![Easy](https://img.shields.io/badge/-EASY-brightgreen) | [Java](./java/BinarySearch.java) / [Python](./python/Leetcode_704.py) | $O(\log n)$ | 16/01 |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | ![Easy](https://img.shields.io/badge/-EASY-brightgreen) | [Java](./java/Leetcode_14.java) / [Python](./python/Leetcode_14.py) | $O(n^2)$ | 21/01 |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | ![Easy](https://img.shields.io/badge/-EASY-brightgreen) | [Java](./java/Leetcode_9.java) / [Python](./python/Leetcode_9.py) | $O(n)$ | 22/01 |
 | 20 | [Valid Parenthese](https://leetcode.com/problems/valid-parentheses/) | ![][E] | [Java](./src/Leetcode_20.java) | $O(n)$ | 31/01 |
