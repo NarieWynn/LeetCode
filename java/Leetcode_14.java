@@ -5,6 +5,7 @@ class Leetcode_14 {
                 strs[0]= strs[0].substring(0, strs[0].length() - 1);
             } 
         }
+        
         return strs[0];
     }
 }
