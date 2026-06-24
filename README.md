@@ -35,6 +35,7 @@
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | ![Medium](https://img.shields.io/badge/-MEDIUM-yellow) | [Java](./java/Leetcode_33.java) | $O(\log n)$ | 29/01 |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | ![][M] | [Java](./java/Leetcode_6.java) | $O(n)$ | 04/02 |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | ![][M] | [Java](./java/Leetcode_7.java) | $O(n)$ | 05/02 |
+| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | ![][M] | [Java](./java/Leetcode_8.java) | $O(n)$ | 24/06 |
 -------------------------------------------------------------
 ## 🔴 Hard 
 | # | Problem | Difficulty | Solution | Complexity | Date |
